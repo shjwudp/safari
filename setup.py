@@ -7,5 +7,7 @@ setup(
     version="0.0.1",
     license="MIT",
     description="",
-    install_requires=[],
+    install_requires=[
+        "opt_einsum",
+    ],
 )
